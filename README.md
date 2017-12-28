@@ -5,6 +5,7 @@
 
 Head on over to [howto.p2pu.org](http://howto.p2pu.org). Everything you need to know is over there and once you are done we'll be waiting for you here!
  
+ http://howto.p2pu.org/modules/tutorial/setup/
 ---
 
 This course was created using the [Jekyll Course template from P2PU](http://github.com/p2pu/jekyll-course-template).
